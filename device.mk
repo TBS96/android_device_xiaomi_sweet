@@ -119,3 +119,6 @@ PRODUCT_PACKAGES += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/sweet/sweet-vendor.mk)
+
+# Maintainer info
+PRODUCT_MAINTAINER:= Prantik Ghosh(tbs96)
